@@ -50,6 +50,7 @@ A built-in **LLM agent** answers grounded questions from the same corpus.
 ### 2) Run Docker
 
 `docker build -t readpath-app`
+
 `docker run --rm -p 7860:7860 -e OPENAI_API_KEY=sk-... readpath-app`
 
 ---
