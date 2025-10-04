@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP & ML
+nltk
+sentence-transformers
+keybert
+rapidfuzz
+openai
+
+# Graphs & visualization
+networkx
+pyvis
+community
+
+# File handling
+PyPDF2
+
+# Web & API
+requests
+gradio
