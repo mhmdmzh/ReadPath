@@ -49,7 +49,7 @@ A built-in **LLM agent** answers grounded questions from the same corpus.
   
 ### 2) Run Docker (was not built correctly - not all features are working here)
 
-docker run -it --name my-container my-python-app /bin/bash
+`docker run -it --name my-container readpath-app /bin/bash`
 
 ---
 
