@@ -88,15 +88,14 @@ A built-in **LLM agent** answers grounded questions from the same corpus.
 
 ## Example
 
-![Graph preview](Images/thumbnail_image.png)
 ![Graph preview](Images/image.png)
-![Graph preview](Images/thumbnail_image (1) - Copy.png)
-![Graph preview](Images/thumbnail_image (2) - Copy.png)
-![Graph preview](Images/thumbnail_image (3) - Copy.png)
-![Graph preview](Images/thumbnail_image(4).png)
-![Graph preview](Images/thumbnail_image(5).png)
-![Graph preview](Images/thumbnail_image(6).png)
-![Graph preview](Images/thumbnail_image(7).png)
+![Graph preview](Images/image2.png)
+![Graph preview](Images/image3.png)
+![Graph preview](Images/image4.png)
+![Graph preview](Images/image5.png)
+![Graph preview](Images/image6.png)
+![Graph preview](Images/image7.png)
+![Graph preview](Images/image8.png)
 
 ---
 
