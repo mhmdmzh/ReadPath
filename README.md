@@ -47,8 +47,9 @@ A built-in **LLM agent** answers grounded questions from the same corpus.
    - Enter your `OPENAI_API_KEY` when prompted.
    - Use the **Ask the Papers** tab for grounded Q&A.
   
-### 2) Run Docker: 
-1. 
+### 2) Run Docker (was not built correctly - not all features are working here)
+
+docker run -it --name my-container my-python-app /bin/bash
 
 ---
 
