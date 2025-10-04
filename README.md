@@ -1,6 +1,7 @@
 # ReadPath: Coverage-First Reading Planner (with Graph View + LLM Agent)
 
 EECE798S - Agentic Systems
+
 Mohamad Mazeh, Hadi Mubasher, Ahmad Chehab El Dine
 
 **One-evening, end-to-end system** that helps a user quickly plan what to read on any research topic.  
